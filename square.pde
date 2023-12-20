@@ -4,7 +4,7 @@ float min_distance = 100;
 ArrayList<food> foods;
 float supply_speed = 0.5;
 
-int fish_num = 30;
+int ship_num = 30;
 float speed = 3;
 ArrayList<ship> ships;
 
